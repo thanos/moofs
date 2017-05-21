@@ -1,2 +1,5 @@
 # conda installables
+fusepy
+gevent
+paramiko
 setuptools
